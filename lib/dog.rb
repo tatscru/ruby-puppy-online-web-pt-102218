@@ -1,5 +1,5 @@
 class Dog 
-  # attr_reader :name
+  attr_reader :name
   @@all = []
   # here we are gathering a list of dog names 
 
